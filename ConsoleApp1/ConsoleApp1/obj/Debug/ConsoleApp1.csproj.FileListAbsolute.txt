@@ -1,0 +1,9 @@
+D:\vsRepos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\vsRepos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\vsRepos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\vsRepos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\vsRepos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Form1.resources
+D:\vsRepos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+D:\vsRepos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\vsRepos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\vsRepos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
