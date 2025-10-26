@@ -7,13 +7,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement.ProgressBar;
 
 namespace ConsoleApp1
 {
-    public partial class Form1 : Form
+    public partial class Form2 : Form
     {
-        public Form1()
+        public Form2()
         {
             InitializeComponent();
         }
@@ -22,13 +21,17 @@ namespace ConsoleApp1
         {
             try
             {
-                double it = Convert.ToDouble(textBox1.Text);
+                int it = Convert.ToInt32(textBox1.Text);
+                int a = 0;
 
-                double count = 0;
+                int ch = it / 10 % 10;
 
-                for (double i = 1; i <= 8; i += it)
+                int count = 0;
+                while (it != 0)
                 {
-                    count += i * i - 7 * i + 1;
+                    a = it % 10;
+                    it /= 10;
+                    if (a > ch) ++count;
                 }
 
                 MessageBox.Show($"Ответ: {count}");

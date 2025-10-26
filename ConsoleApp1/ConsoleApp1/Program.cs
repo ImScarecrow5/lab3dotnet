@@ -5,8 +5,7 @@ public class Program
 {
     static void Main(string[] args)
     {
-        task4();
-        Console.WriteLine("TEST");
+        task5();
     }
     static void task1()
     {
@@ -59,6 +58,14 @@ public class Program
     static void task4()
     {
         Form1 task4 = new Form1();
-        task4.Show();
+        task4.FormClosed += (s, args) => { };
+        task4.ShowDialog();
+    }
+
+    static void task5()
+    {
+        Form2 task5 = new Form2();
+        task5.FormClosed += (s, args) => { };
+        task5.ShowDialog();
     }
 }
