@@ -1,0 +1,13 @@
+C:\Users\Administrator\Downloads\laba3net-master\laba3net\obj\Debug\laba3net.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\laba3net-master\laba3net\obj\Debug\laba3net.Task4.resources
+C:\Users\Administrator\Downloads\laba3net-master\laba3net\obj\Debug\laba3net.Properties.Resources.resources
+C:\Users\Administrator\Downloads\laba3net-master\laba3net\obj\Debug\laba3net.Task7.resources
+C:\Users\Administrator\Downloads\laba3net-master\laba3net\obj\Debug\laba3net.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\laba3net-master\laba3net\obj\Debug\laba3net.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\laba3net-master\laba3net\bin\Debug\laba3net.exe.config
+C:\Users\Administrator\Downloads\laba3net-master\laba3net\bin\Debug\laba3net.exe
+C:\Users\Administrator\Downloads\laba3net-master\laba3net\bin\Debug\laba3net.pdb
+C:\Users\Administrator\Downloads\laba3net-master\laba3net\obj\Debug\laba3net.Form1.resources
+C:\Users\Administrator\Downloads\laba3net-master\laba3net\obj\Debug\laba3net.exe
+C:\Users\Administrator\Downloads\laba3net-master\laba3net\obj\Debug\laba3net.pdb
+C:\Users\Administrator\Downloads\laba3net-master\laba3net\obj\Debug\laba3net.Form2.resources
